@@ -1,58 +1,58 @@
 🚀 Data_Jumia_analysis_laptop
 
-📌 À propos du projet
-Ce projet est une analyse complète du marché des ordinateurs portables sur Jumia Côte d’Ivoire.
-Il s’inscrit dans une démarche d’utilisation de la data science pour mieux comprendre les tendances locales, 
-identifier les préférences des consommateurs, et dégager des insights exploitables pour des décisions marketing et commerciales.
+📌 About the project  
+This project offers a comprehensive analysis of the laptop market on Jumia Côte d’Ivoire.  
+It is part of a data science approach aimed at better understanding local trends, identifying consumer preferences, and extracting actionable insights for marketing and business decision-making.
 
-🎯 Objectifs
-- Scraper les données des laptops disponibles sur Jumia CI.
-- Structurer et nettoyer les données pour une exploitation efficace.
-- Explorer et analyser les spécifications techniques (marques, processeurs, RAM, stockage) et les avis clients.
-- Identifier les marques et caractéristiques les plus appréciées.
+🎯 Objectives  
+- Scrape data of laptops available on Jumia CI.  
+- Structure and clean the data for optimal exploitation.  
+- Explore and analyze technical specifications (brands, processors, RAM, storage) as well as customer reviews.  
+- Identify the most appreciated brands and features.
 
-⚙️ Compétences et outils mis en œuvre
-✅ Web Scraping : Selenium et BeautifulSoup
-✅ Data Cleaning & Feature Engineering : Pandas pour filtrer les données incohérentes ou manquantes et extraction de features
-✅ Data Analysis & Business Insights : Agrégation et calcul de métriques clés, rankings
-✅ Gestion de projet & Versioning : Git, structuration des dossiers et scripts
+⚙️ Skills and tools used  
+- Web Scraping: Selenium and BeautifulSoup  
+- Data Cleaning & Feature Engineering: Pandas to filter inconsistent or missing data and extract features  
+- Data Analysis & Business Insights: Aggregation and calculation of key metrics, rankings  
+- Project Management & Versioning: Git, clear folder and script structuring  
 
-📂 Structure du projet
-Data_Jumia_analysis_laptop/
-│
-├── notebooks/           # Jupyter notebooks pour l'exploration initiale
-├── scripts/             # Scripts Python pour scraping et nettoyage
-├── data/
-│   ├── raw/             # Données brutes extraites de Jumia
-│   └── processed/       # Données nettoyées prêtes pour analyse
-├── outputs/
-│   ├── csv/             # Fichiers CSV finaux (top specs, rankings, etc.)
-│   └── plots/           # Graphiques et visualisations
-├── README.md
-└── requirements.txt     # Bibliothèques nécessaires
+📂 Project structure  
+Data_Jumia_analysis_laptop/  
+│  
+├── notebooks/           # Jupyter notebooks for initial exploration  
+├── scripts/             # Python scripts for scraping and cleaning  
+├── data/  
+│   ├── raw/             # Raw data extracted from Jumia  
+│   └── processed/       # Cleaned data ready for analysis  
+├── outputs/  
+│   ├── csv/             # Final CSV files (top specs, rankings, etc.)  
+│   └── plots/           # Graphs and visualizations  
+├── README.md  
+└── requirements.txt     # Required libraries  
 
-📊 Résultats clés
-- Classements des marques préférées sur la base de la note moyenne pondérée par le nombre d'avis.
-- Identification des combinaisons processeur-RAM-Stockage les plus présentes et les mieux notées.
-- Extraction des top 10 processeurs, RAM et stockages les plus courants.
+📊 Key results  
+- Ranking of preferred brands based on the average rating weighted by the number of reviews.  
+- Identification of the most frequent and highest rated processor-RAM-storage combinations.  
+- Extraction of the top 10 processors, RAM, and storage types most commonly found.
 
-🚀 Pourquoi ce projet ?
-✅ Montre ma capacité à manipuler des données réelles non structurées et les transformer en insights business.
-✅ Démonstre mes compétences en Python, Pandas, Web scraping et Data Cleaning, dans un cadre structuré et documenté.
-✅ Prêt à être poussé plus loin avec des visualisations interactives ou dashboards.( Sur Power BI)
+🚀 Why this project?  
+- Highlights my ability to manipulate real unstructured data and transform it into business insights.  
+- Demonstrates my skills in Python, Pandas, Web scraping, and data cleaning within a structured and documented framework.  
+- Project ready to be extended with interactive visualizations or dashboards, for example on Power BI.
 
-💼 À propos de moi
-Je suis Joseph Adaï, passionné par la data science. Mon objectif : devenir un data scientist de classe mondiale, prêt à résoudre des problèmes complexes pour des entreprises ambitieuses.
+💼 About me  
+I am Joseph Adaï, passionate about data science. My ambition is to become a world-class data scientist, ready to solve complex problems for ambitious companies.
 
-🛠️ Pour exécuter le projet
-git clone https://github.com/tonprofil/Data_Jumia_analysis_laptop.git
-cd Data_Jumia_analysis_laptop
-pip install -r requirements.txt
+🛠️ To run the project  
+git clone https://github.com/tonprofil/Data_Jumia_analysis_laptop.git  
+cd Data_Jumia_analysis_laptop  
+pip install -r requirements.txt  
 
-🙌 Merci !
+🙌 Thank you for your attention!  
+If you are interested in this project or wish to collaborate, please feel free to contact me:  
+
+✉️ josephterence84@gmail.com  
+🔗 https://www.linkedin.com/in/joseph-ada%C3%AF-821986364/  
+📞 +225 07-12-45-05-86  
 
 
-Si ce projet vous intéresse ou si vous souhaitez collaborer, contactez-moi directement sur GitHub ou LinkedIn.
-Addresse mail : josephterence84@gmail.com
-Linkedin : https://www.linkedin.com/in/joseph-ada%C3%AF-821986364/
-Contact : +225 07-12-45-05-86
